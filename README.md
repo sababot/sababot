@@ -4,6 +4,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![alt text](https://www.codewars.com/users/sababot/badges/small)
 
-Learning: C++
+Learning: Rust
 
-Know    : Python, C#
+Know    : C++, Python, C#
