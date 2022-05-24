@@ -1,3 +1,9 @@
 # Aitor Garcia Hombrados
 
-good times are not good times if there are no bad times
+```
+ _                             _ _
+(_)    __ _ _ __ ____     __ _(_| |_ ___  _ __
+| |   / _` | '_ ` _  \   / _` | | __/ _ \| '__|
+| |  | (_| | | | | | |  | (_| | | || (_) | |
+|_|   \__,_|_| |_| |_|   \__,_|_|\__\___/|_|
+```
